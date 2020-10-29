@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"this is a test directory to react:",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikram786md/git-test.git"
+  },
+  "author": "mdikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikram786md/git-test/issues"
+  },
+  "homepage": "https://github.com/ikram786md/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
